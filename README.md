@@ -16,7 +16,7 @@ My goal is to continuously improve my technical skills, build meaningful project
 * C++
 * Python
 * Data Structures and Algorithms (Beginner to Intermediate)
-* HTML, CSS, JavaScript (Basics)
+* HTML, CSS, JavaScript
 * Git and GitHub
 * Problem Solving
 * Basic Frontend Development
